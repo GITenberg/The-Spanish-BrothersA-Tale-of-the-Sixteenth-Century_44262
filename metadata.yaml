@@ -1,0 +1,30 @@
+_repo: The-Spanish-BrothersA-Tale-of-the-Sixteenth-Century_44262
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44262-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Alcock, Deborah
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '40565'
+    url: http://www.gutenberg.org/2009/agents/40565
+description: ''
+gutenberg_issued: '2013-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Reformation -- Spain -- Juvenile fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PZ'
+- !lcsh 'Inquisition -- Spain -- Juvenile fiction'
+title: 'The Spanish Brothers: A Tale of the Sixteenth Century'
+url: http://www.gutenberg.org/ebooks/44262
